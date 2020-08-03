@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello young padawan 👋
+
+Web Developer learning new stuff every day about JavaScript. :computer:
 
 <!--
 **kevynfg/kevynfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
