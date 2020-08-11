@@ -1,5 +1,6 @@
 ### Hello young padawan 👋
 
+Já parou pra pensar que podemos ser tão habituados com linguagem de programação que recebemos códigos binários, e somos o compilador automáticamente lendo o código que digitamos? 
 Web Developer learning new stuff every day about JavaScript. :computer:
 
 <!--
