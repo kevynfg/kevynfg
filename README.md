@@ -3,6 +3,7 @@
 Já parou pra pensar que podemos ser tão habituados com linguagem de programação que recebemos códigos binários, e somos o compilador automáticamente lendo o código que digitamos? 
 Web Developer learning new stuff every day about anything that seems interesting to me. :computer:
 
+- :briefcase: Working at Grupo Fcamara - Transformação Cultural, Digital & Cognitiva
 - 🌱 I’m currently learning NodeJS, ReactJS, MongoDB and PostgreSQL
 - 📫 How to reach me: [LinkedIn](http://linkedin.com.br/in/kevynfg)
 <!--
