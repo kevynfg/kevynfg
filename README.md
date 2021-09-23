@@ -1,7 +1,6 @@
 ### Hello young padawan 👋
 
-Já parou pra pensar que podemos ser tão habituados com linguagem de programação que recebemos códigos binários, e somos o compilador automáticamente lendo o código que digitamos? 
-Web Developer learning new stuff every day about anything that seems interesting to me. :computer:
+Have you ever think that we could be writing binary code instead of writing high-level language because we are just some program data that haven't noticed yet? :computer:
 
 - :briefcase: Working at [Grupo Fcamara - Transformação Cultural, Digital & Cognitiva](https://www.fcamara.com.br/)
 - 🌱 I’m currently learning Node JS, Nextjs, GraphQL, TDD and TypeScript  
