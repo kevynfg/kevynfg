@@ -4,8 +4,8 @@ Já parou pra pensar que podemos ser tão habituados com linguagem de programaç
 Web Developer learning new stuff every day about anything that seems interesting to me. :computer:
 
 - :briefcase: Working at [Grupo Fcamara - Transformação Cultural, Digital & Cognitiva](https://www.fcamara.com.br/)
-- 🌱 I’m currently learning NodeJS, ReactJS, MongoDB and PostgreSQL
-- 📫 How to reach me: [LinkedIn](http://linkedin.com.br/in/kevynfg)
+- 🌱 I’m currently learning Node JS, Nextjs, GraphQL, TDD and TypeScript  
+- 📫 How to reach me: [LinkedIn](http://linkedin.com.br/in/kevynfg)  
 <!--
 **kevynfg/kevynfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
