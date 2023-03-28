@@ -6,7 +6,7 @@ Have you ever think that we could be writing binary code instead of writing high
 - 🌱 currently stack: Nextjs, Prisma, React, Angular, MongoDB, PlanetScale, Spring, JavaScript, NodeJs, Redis, Jest, PostgreSQL, AWS.    
 - 📫 How to reach me: [LinkedIn](http://linkedin.com.br/in/kevynfaria)  
 - ⚡ Fun fact: Gurren Lagan is and will always be the best anime ever.
-- Actually, been learning Golang
+- Actually, been learning Golang and Java
 <!--
 **kevynfg/kevynfg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
