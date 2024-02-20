@@ -2,7 +2,7 @@
 
 Have you ever think that we could be writing binary code instead of writing high-level language because we are just some program data that haven't noticed yet? :computer:
 
-- :briefcase: Working at [Zup Innovation - Projeto do Itaú IUMessenger](https://www.zup.com.br/)
+- :briefcase: Working at [Zup Innovation - Projeto do Itaú - IUMessenger](https://www.itau.com.br/atendimento-itau/para-voce/assistente-virtual-itau)
 - 🌱 currently stack: Nextjs, Prisma, React, Angular, MongoDB, PlanetScale, Spring, JavaScript, NodeJs, Redis, Jest, PostgreSQL, AWS.    
 - 📫 How to reach me: [LinkedIn](http://linkedin.com.br/in/kevynfaria)  
 - ⚡ Fun fact: Gurren Lagan is and will always be the best anime ever.
